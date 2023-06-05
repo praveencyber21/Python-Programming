@@ -6,4 +6,4 @@ for i in range(len(l)):
     count = count + 1
     sum = sum + l[i]
 average = sum/count
-print("Count {}, Sum {}, Average {}".format(count, sum, average))
+print("Count {}, Sum = {}, Average = {}".format(count, sum, average))
